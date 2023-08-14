@@ -1,0 +1,13 @@
+.wall2{
+    background: green;
+    width: 68px;
+    height: 100vh;
+    position: relative;
+    top: -526px;
+    clip-path: polygon(0 0, 100% 67px, 100% 591px, 0% 100%);
+    z-index: 2;
+    /* background-image: url(brown-wood-pattern-and-texture-for-background-vector.jpg); */
+    /* background-size: 100%; */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}

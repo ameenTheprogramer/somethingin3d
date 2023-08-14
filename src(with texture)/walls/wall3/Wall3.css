@@ -1,0 +1,11 @@
+
+
+.wall3{
+    position: relative;
+    background: blue;
+    width: 101%;
+    height: 66px;
+    top: -1187px;
+    clip-path: polygon(100% 0, 1296px 100%, 67px 100%, 0 0);
+    
+}

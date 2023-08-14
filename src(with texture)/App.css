@@ -1,0 +1,13 @@
+
+
+body{
+    margin: 0;
+    overflow: hidden;
+    /* cursor: none; */
+}
+/* #cursor{
+    position: relative;
+    width: 50px;
+    z-index: 10;
+    //hidden feature
+} */

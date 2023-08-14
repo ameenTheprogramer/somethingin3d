@@ -1,0 +1,14 @@
+
+
+.wall4{
+    background: green;
+    width: 71px;
+    height: 100vh;
+    position: relative;
+    top: -1250px;
+        /* width: 5.1000%; */
+    float: right;
+    transform: scaleX(-1);
+    clip-path: polygon(0 0, 100% 10.19%, 100% 90%, 0% 100%);
+    
+}
